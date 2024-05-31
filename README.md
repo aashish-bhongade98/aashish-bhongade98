@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aashish-bhongade98
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Nodejs, React, 
+
 
 
 <!---
